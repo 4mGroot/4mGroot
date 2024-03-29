@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Regular+400&pause=1000&center=true&vCenter=true&random=false&width=441&lines=print(%22My+nickname+%3D+Earth%22))](https://git.io/typing-svg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontawat Noitubtim
