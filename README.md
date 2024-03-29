@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fgroot&psig=AOvVaw3zwyGAjpW6T2HM2uAmyo66&ust=1711811728324000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjf0eHhmYUDFQAAAAAdAAAAABB6" width="100"/> </div>
+<div id="header" align="center">   <img src="https://d23.com/app/uploads/2022/08/12_Groot-10.gif" width="1000"/> </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Regular+400&pause=1000&center=true&vCenter=true&random=false&width=441&lines=print(%22My+nickname+%3D+Earth%22))](https://git.io/typing-svg)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontawat Noitubtim
 ==========================================================================================================================================
 
-Computer Engineering
+Computer Engineering>
 --------------------
 
 * 🌍  I'm based in Thailand
