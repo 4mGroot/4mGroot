@@ -41,7 +41,7 @@ Computer Engineering>
 
 <div align="center">
 
-  <img alt="4mGroot Github Stats" src="https://github-readme-stats.vercel.app/api?username=4mGroot&show_icons=true&count_private=true&theme=react&bg_color=282c34&title_color=dfb36e&text_color=b85a60&icon_color=8eb573" height="192px" width="49.5%"/>
+  <img alt="4mGroot Github Stats" src="https://github-readme-stats.vercel.app/api?username=4mGroot&show_icons=true&count_private=true&theme=react&bg_color=282c34&title_color=dfb36e&text_color=8eb573&icon_color=b85a60" height="192px" width="49.5%"/>
   
   <a href="http://www.github.com/4mGroot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4mGroot&stroke=b85a60&background=282c34&ring=e4bf7a&fire=8eb573&currStreakNum=8eb573&currStreakLabel=8eb573&sideNums=8eb573&sideLabels=dfb36e&dates=b85a60&hide_border=true" /></a> 
   
