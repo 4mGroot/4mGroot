@@ -47,11 +47,9 @@ Computer Engineering>
 
   <a href="http://www.github.com/4mGroot"><img src="https://github-readme-stats.vercel.app/api?username=4mGroot&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=312e81&hide_border=true&show_icons=true" alt="4mGroot's GitHub stats" /></a>
   
-  <a href="http://www.github.com/4mGroot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4mGroot&stroke=ffffff&background=312e81&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/4mGroot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4mGroot&stroke=b85a60&background=2c2c34&ring=e4bf7a&fire=778c69&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
   
-  <a href="https://github.com/4mGroot/4mGroot/graphs/commit-activity" /></a>
-  
-  <a href="https://github.com/4mGroot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mGroot&langs_count=10&title_color=ef4444&text_color=ec4899&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/4mGroot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mGroot&langs_count=10&title_color=dfb36e&text_color=b85a60&icon_color=778c69&bg_color=2c2c34&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4mGroot&theme=onedark" alt="4mGroot's GitHub Contribution"/>
 </div>
