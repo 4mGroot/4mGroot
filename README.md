@@ -45,11 +45,11 @@ Computer Engineering>
 
 <div align="center">
 
-  <a href="http://www.github.com/4mGroot"><img src="https://github-readme-stats.vercel.app/api?username=4mGroot&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=312e81&hide_border=true&show_icons=true" alt="4mGroot's GitHub stats" /></a>
+  <img alt="4mGroot Github Stats" src="https://github-readme-stats.vercel.app/api?username=4mGroot&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   
-  <a href="http://www.github.com/4mGroot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4mGroot&stroke=b85a60&background=2c2c34&ring=e4bf7a&fire=778c69&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
+  <a href="http://www.github.com/4mGroot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4mGroot&stroke=b85a60&background=282c34&ring=e4bf7a&fire=8eb573&currStreakNum=8eb573&currStreakLabel=8eb573&sideNums=8eb573&sideLabels=dfb36e&dates=b85a60&hide_border=true" /></a> 
   
-  <a href="https://github.com/4mGroot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mGroot&langs_count=10&title_color=dfb36e&text_color=b85a60&icon_color=778c69&bg_color=2c2c34&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/4mGroot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mGroot&langs_count=10&title_color=dfb36e&text_color=b85a60&icon_color=8eb573&bg_color=282c34&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4mGroot&theme=onedark" alt="4mGroot's GitHub Contribution"/>
 </div>
